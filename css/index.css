@@ -23,7 +23,7 @@ a {
 /* --- HERO SECTION --- */
 .hero-container {
   width: 100%; /* Ensure it takes full width */
-  max-height: 400px; /* Limit height for aesthetic appeal */
+  max-height: 800px; /* Limit height for aesthetic appeal */
   overflow: hidden; /* Hide overflowing parts of the image */
   position: relative; /* For potential overlays or text */
   margin-bottom: 60px; /* Space below the hero section */
