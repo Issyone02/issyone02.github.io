@@ -6,7 +6,7 @@
   padding: 60px 20px 30px; /* Generous padding for breathing room */
   font-family: 'Arial', sans-serif; /* Clean, modern font */
   box-shadow: 0 -5px 20px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
-  margin-top: 30px; /* Space above the footer */
+  margin-top: 20px; /* Space above the footer */
   text-align: center; /* Center align content globally */
 }
 
